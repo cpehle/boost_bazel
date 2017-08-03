@@ -1,2 +1,2 @@
 # boost_bazel
-Basel build files for a subset of boost libraries
+Bazel build files for a subset of boost libraries
